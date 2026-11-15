@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">Software Test Engineer | QA Automation | Quality Advocate</h3>
+<h1 align="center">Hi, I'm S M Ahsanul Mahbub 👋</h1>
+<h3 align="center">Software Test Engineer | QA Automation </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -98,24 +98,8 @@ Load test scripts simulating real user traffic, with HTML dashboards for respons
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
 
 ---
-
-## 🏆 Certifications
-
-- ✅ ISTQB Certified Tester Foundation Level (CTFL)
-- ✅ [ISTQB Advanced Level Test Automation Engineer]
-- ✅ [Certified Agile Tester / Postman API Expert / other]
 
 ---
 
