@@ -11,7 +11,7 @@
 
 ## 🔍 About Me
 
-I'm a Software Tester with **[X] years** of experience making sure software works the way users expect it to. I enjoy breaking things on purpose so customers never break them by accident.
+I'm a Software Tester with **2 years** of experience making sure software works the way users expect it to. I enjoy breaking things on purpose so customers never break them by accident.
 
 - 🧪 Focused on **manual and automated testing** for web, API and mobile applications
 - 🤖 Building **scalable test automation frameworks** from scratch
