@@ -16,9 +16,9 @@ I'm a Software Tester with **2 years** of experience making sure software works 
 - 🧪 Focused on **manual and automated testing** for web, API and mobile applications
 - 🤖 Building **scalable test automation frameworks** from scratch
 - 🔄 Integrating tests into **CI/CD pipelines** for fast, reliable releases
-- 📚 Currently learning: **[e.g. Playwright, Performance Testing, AI in QA]**
-- 📫 Reach me at: **your.email@example.com**
-- 📍 Based in **[City, State]**, open to remote and relocation
+- 📚 Currently learning: **[Playwright, Performance Testing, AI in QA]**
+- 📫 Reach me at: **smahsanulmahbub@gmail.com**
+- 📍 Based in **Detroit,MI**, open to remote and relocation
 
 ---
 
