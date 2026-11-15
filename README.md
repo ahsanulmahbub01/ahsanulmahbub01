@@ -109,9 +109,6 @@ Load test scripts simulating real user traffic, with HTML dashboards for respons
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile views" />
-</p>
 
 <p align="center"><i>⭐ Thanks for visiting! Feel free to connect or open an issue on any of my projects.</i></p>
 ## Hi there 👋
